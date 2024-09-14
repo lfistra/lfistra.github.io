@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lfistra.github.io/sitemap.html.gz
+Sitemap: https://lfistra.github.io/app/sitemap.html.gz
+Sitemap: https://lfistra.github.io/assets/sitemap.html.gz
+Sitemap: https://lfistra.github.io/css/sitemap.html.gz
+Sitemap: https://lfistra.github.io/includes/sitemap.html.gz
+Sitemap: https://lfistra.github.io/item/sitemap.html.gz
+Sitemap: https://lfistra.github.io/src/sitemap.html.gz
